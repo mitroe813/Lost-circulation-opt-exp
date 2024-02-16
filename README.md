@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository supports the research presented in `Hyperparameter optimization and interpretation of circulation loss prediction model in drilling`,focusing on enhancing predictive models for circulation loss in drilling operations.
+This repository supports the research presented in `Drilling cycle loss prediction model hyperparameter optimization and interpretation`,focusing on enhancing predictive models for circulation loss in drilling operations.
 Circulation loss poses significant operational and cost challenges in drilling engineering.Through meticulous hyperparameter optimization and model interpretation, our work aims to improve the predictability of such losses, thereby aiding in the mitigation of their impacts on drilling efficiency and costs. The repository contains all the essential data and visualizations used in our study.
 
 ## Project Structure

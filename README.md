@@ -2,24 +2,24 @@
 
 ## Introduction
 
-This repository supports the research presented in `Drilling cycle loss prediction model hyperparameter optimization and interpretation`,focusing on enhancing predictive models for circulation loss in drilling operations.
-Circulation loss poses significant operational and cost challenges in drilling engineering.Through meticulous hyperparameter optimization and model interpretation, our work aims to improve the predictability of such losses, thereby aiding in the mitigation of their impacts on drilling efficiency and costs. The repository contains all the essential data and visualizations used in our study.
+该存储库支持`井漏预测模型的超参数优化与解释`中提出的研究，重点是增强钻井作业中循环损失的预测模型。
+循环损失给钻井工程带来了重大的运营和成本挑战。通过细致的超参数优化和模型解释，我们的工作旨在提高此类损失的可预测性，从而帮助减轻其对钻井效率和成本的影响。 该存储库包含我们研究中使用的所有基本数据和可视化。
 
 ## Project Structure
 
-This project includes the following main files and directories:
+该项目包括以下主要文件和目录：
 
 - `data/`
 
-  - `raw_data.csv`: The initial dataset before any processing or analysis.
-  - `optuna/`: Contains the results of the optimization process for various models. This directory is crucial for understanding the performance and tuning of models under different conditions.
-  - `sampling/`: This directory holds datasets that have been split and balanced post-processing. It's essential for ensuring that the models are trained on balanced data to avoid biases.
-  - `statistics/`: This directory is dedicated to statistical reports and analyses, providing insights into the data and the effectiveness of different models.
-    - `data_analysis_report.html`: An HTML report of the data analysis, offering an accessible and visual way to understand the data's characteristics and the preliminary findings.
-    - `data_analysis_report.json`: A JSON version of the data analysis report, which can be useful for automated processing or further analysis in other software.
+  - `raw_data.csv`: 任何处理或分析之前的初始数据集。
+  - `optimization/`: 包含各种模型的优化过程的结果。 该目录对于理解不同条件下模型的性能和调整至关重要。
+  - `sampling/`: 该目录保存经过分割和平衡后处理的数据集。 确保模型接受平衡数据的训练以避免偏差至关重要。
+  - `statistics/`: 该目录致力于统计报告和分析，提供对数据和不同模型有效性的见解。
+    - `data_analysis_report.html`: 数据分析的 HTML 报告，提供一种易于理解且直观的方式来了解数据的特征和初步结果。
+    - `data_analysis_report.json`:JSON版本的数据分析报告，可用于其他软件中的自动化处理或进一步分析。
 - `figure/`
 
-  Within this directory, you'll find various plots that visualize the training process for different models and conditions. These visualizations can help in identifying the best-performing models and understanding their behavior under various parameters.
+在此目录中，您将找到各种图表，这些图表可视化不同模型和条件的训练过程。 这些可视化可以帮助识别性能最佳的模型并了解它们在各种参数下的行为。
 
 ## Contact Information
 

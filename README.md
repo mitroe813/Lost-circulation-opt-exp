@@ -22,7 +22,6 @@
 在此目录中，您将找到各种图表，这些图表可视化不同模型和条件的训练过程。 这些可视化可以帮助识别性能最佳的模型并了解它们在各种参数下的行为。
 
 ## Contact Information
-```
 - Main Contributor: Hengfeng Li
 - Email: [mitroe813@gmail.com](mailto:mitroe813@gmail.com)
-```
+
